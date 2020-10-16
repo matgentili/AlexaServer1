@@ -1,0 +1,24 @@
+{
+  "name": "alexaserver1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matgentili/AlexaServer1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matgentili/AlexaServer1/issues"
+  },
+  "homepage": "https://github.com/matgentili/AlexaServer1#readme"
+}
