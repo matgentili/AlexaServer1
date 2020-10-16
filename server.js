@@ -7,6 +7,6 @@ AlexaAppServer.start({
 	public_html: "public_html", // Static content
 	app_dir: "apps",            // Location of alexa-app modules
 	app_root: "",        // Service root // empty in our case
-	port: 80                 // Port to use
+	port: 8080                 // Port to use
 });
 
